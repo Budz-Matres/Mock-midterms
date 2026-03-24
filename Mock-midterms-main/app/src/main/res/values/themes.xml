@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/operator_color</item>
+        <item name="colorPrimaryDark">@color/dark_background</item>
+        <item name="colorAccent">@color/operator_color</item>
+        <item name="android:windowBackground">@color/light_background</item>
+        <item name="android:textColor">@color/light_display_text</item>
+    </style>
+
+    <style name="CalcButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">35dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <style name="CalcButton.Number">
+        <item name="backgroundTint">@color/light_number_button</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="CalcButton.Operator">
+        <item name="backgroundTint">@color/operator_color</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CalcButton.Function">
+        <item name="backgroundTint">@color/light_function_button</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

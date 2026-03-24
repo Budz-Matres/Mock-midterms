@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_negate">+/-</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_decimal">.</string>
+    <string name="btn_custom_op">× 3.31 (ID)</string>
+    <string name="btn_toggle_theme">Toggle Theme</string>
+    <string name="history_label">History</string>
+    <string name="default_display">0</string>
+</resources>

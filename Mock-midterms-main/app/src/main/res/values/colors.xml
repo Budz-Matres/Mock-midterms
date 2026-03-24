@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors (primary palette) -->
+    <color name="dark_background">#1C1C1E</color>
+    <color name="operator_color">#FF9500</color>
+    <color name="number_button_color">#333335</color>
+    <color name="display_text_color">#FFFFFF</color>
+    <color name="function_button_color">#9E9E9E</color>
+    <color name="equals_button_color">#FF9500</color>
+    <color name="custom_operator_color">#FF6B00</color>
+
+    <!-- Light theme colors -->
+    <color name="light_background">#F2F2F7</color>
+    <color name="light_number_button">#FFFFFF</color>
+    <color name="light_function_button">#D4D4D4</color>
+    <color name="light_display_text">#000000</color>
+    <color name="light_secondary_text">#8E8E93</color>
+
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
